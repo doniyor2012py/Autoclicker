@@ -1,0 +1,4 @@
+Requirments
+Python
+  mouse
+  keyboard
